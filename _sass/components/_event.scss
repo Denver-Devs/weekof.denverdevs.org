@@ -2,7 +2,7 @@
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  font-family: $font-medium;
+  font-family: $font-accent;
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
   justify-content: space-between;
@@ -39,7 +39,7 @@
 
 .event__duration,
 .event__link {
-  color: $color-gray;
+  color: $color-veniceBlue;
   font-size: .875rem;
 }
 
@@ -57,11 +57,11 @@
 }
 
 .event__name-link {
-  color: $color-gray-dark;
+  color: $color-nileBlue;
 }
 
 .event__info {
-  color: $color-gray;
+  color: $color-veniceBlue;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
@@ -85,7 +85,7 @@
 }
 
 a.event__link:hover {
-  color: darken($color-gray, 10%);
+  color: darken($color-veniceBlue, 10%);
 }
 
 .event__attendance {
@@ -127,11 +127,11 @@ a.event__link:hover {
 }
 
 .event__status--sold-out {
-  color: rgba($color-gray, .5);
+  color: rgba($color-veniceBlue, .5);
 }
 
 .event__status--buy-ticket {
-  color: $color-blue;
+  color: $color-nileBlue;
 
   &:hover {
     color: #fff;
@@ -140,7 +140,7 @@ a.event__link:hover {
 
 @include medium {
   .event__status--buy-ticket:hover  {
-    background-color: $color-blue;
+    background-color: $color-nileBlue;
     color: #fff;
   }
 }

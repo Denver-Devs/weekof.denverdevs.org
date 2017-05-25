@@ -5,10 +5,10 @@
 }
 
 .events__item {
-  border-bottom: 2px solid $color-yellow;
+  border-bottom: 2px solid $color-nugget;
   padding: 1rem;
 
   &:hover {
-    background-color: $color-gray-light;
+    background-color: lighten($color-veniceBlue, 65%);
   }
 }
