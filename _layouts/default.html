@@ -9,4 +9,16 @@
 
     {% include footer.html %}
   </body>
+
+  <script>
+  let scrollTrigger = 200
+  function fixNav() {
+    if(window.scrollY >= scrollTrigger) {
+      document.body.classList.add('scrolling');
+    } else {
+      document.body.classList.remove('scrolling');
+    }
+  }
+  window.addEventListener('scroll', fixNav);
+</script>
 </html>

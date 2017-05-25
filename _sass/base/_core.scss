@@ -1,22 +1,48 @@
+html {
+  font-family: "Muli", sans-serif;
+  font-size: calc(1em + .6vw);
+  line-height: 1.6;
+  font-weight: 300;
+}
+
 body {
-  background-color: #fff;
-  color: $color-gray-dark;
-  font-family: $font-regular;
-  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Droid Serif", serif;
+  font-weight: bold;
+  margin: 2rem 0 1rem 0;
+  padding: 0;
 }
 
 a {
-  color: $color-blue;
   text-decoration: none;
-  transition: color .2s ease-in-out;
+  color: #2D4F75;
+  // border-bottom: 0.1em solid #2D4F75;
+}
 
-  &:hover {
-    color: rgba($color-blue, .65);
+.amp {
+  font-family: Baskerville, "Goudy Old Style", Palatino, "Book Antiqua", serif;
+  font-style: italic;
+  font-weight: bold;
+}
+
+p {
+  padding: 0;
+  margin: 0;
+  max-width: 990px;
+
+  + p {
+    margin-top: 20px;
   }
 }
 
-h1,
-h2,
-h3 {
-  font-family: $font-medium;
+.btn {
+  color: #fff;
+  display: inline-block;
+  background: #4183c4;
+  margin: 16px 0;
+  padding: 8px 12px;
 }
