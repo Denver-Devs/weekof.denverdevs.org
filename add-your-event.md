@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Add Your Own Event
+class: sub
 ---
 
 Everyone can add events to our schedule. Yes, you can, too. Even your company. We will promote your event, just as we promote all the others.

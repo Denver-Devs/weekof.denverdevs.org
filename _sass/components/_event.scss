@@ -11,7 +11,11 @@
 .event__day,
 .event__date,
 .event__name {
-  font-size: 1.25rem;
+  font-size: 1rem;
+
+  @include medium {
+    font-size: 1.25rem;
+  }
 }
 
 .event__day {

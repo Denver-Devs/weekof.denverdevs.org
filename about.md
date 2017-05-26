@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About WWWTF Berlin
+class: sub
 ---
 
 ## WTF is WWWTF?

@@ -46,3 +46,13 @@ p {
   margin: 16px 0;
   padding: 8px 12px;
 }
+
+.sub .main p,
+.sub .main ul,
+.sub .main ol {
+  font-size: 0.8rem;
+}
+
+.sub .main h3 {
+  font-size: 1.2rem;
+}

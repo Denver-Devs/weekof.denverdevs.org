@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Welcome to Berlin
+class: sub
 ---
 
 ## Accommodation

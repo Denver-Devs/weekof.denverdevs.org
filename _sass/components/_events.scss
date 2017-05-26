@@ -1,7 +1,11 @@
 .events {
   list-style: none;
   margin: 0;
-  padding: 5rem 0 2rem;
+  padding: 2.5rem 0 2rem;
+
+  @include medium {
+    padding: 5rem 0 2rem;
+  }
 }
 
 .events__item {
