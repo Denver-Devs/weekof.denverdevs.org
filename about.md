@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About WWWTF Berlin
+title: About WeekOf Denver Devs
 class: sub
 ---
 
