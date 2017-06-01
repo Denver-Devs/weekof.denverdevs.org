@@ -10,12 +10,10 @@ We welcome workshops, social events, charitable activities, hackathons, doc spri
 
 ## How to get your event on the list
 
-There are two ways to get your event on our list.
+You can [submit a pull request](https://github.com/Denver-Devs/weekof.denverdevs.org).
 
-You can [create an issue](https://github.com/janl/wwwtf.berlin/issues) with the details of your event. Or, if you have experience doing so, you can [submit a pull request](https://github.com/janl/wwwtf.berlin#create-an-event).
-
-Just remember to provide all important details, including the **date** and **times**, **location**, and a **link** to your event website. Also remember to include the **names of all organizers**, **cost** (if applicable), and the **maximum number of registrants** in the comments.
+Remember to provide all important details, including the **date** and **times**, **location**, and a **link** to your event website.
 
 We will merge your pull request as soon as possible, or ping you if we have any questions.
 
-Thank you for helping to make WhatTheFest more awesome.
+Thank you for helping to make WeekOf Denver Devs more awesome.
