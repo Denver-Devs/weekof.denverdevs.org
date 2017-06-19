@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Level Up your Résumé with Careerscore - Denver"
+date:   2017-06-29
+venue: "Modworks"
+ticket: "rsvp"
+time: "6:00 PM"
+href: "https://www.meetup.com/Girl-Develop-It-Boulder-Denver/events/240684292/"
+---
