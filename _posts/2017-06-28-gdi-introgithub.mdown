@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Introduction to Git & GitHub - Denver"
+date:   2017-06-28
+venue: "SendGrid"
+ticket: "rsvp"
+time: "6:00 PM"
+href: "https://www.meetup.com/Girl-Develop-It-Boulder-Denver/events/239755806/"
+---
